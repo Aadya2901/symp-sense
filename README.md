@@ -146,8 +146,6 @@ Structured Medical Output
 
 ---
 
----
-
 ## 🤝 Contributing
 
 We welcome contributions, improvements, and bug fixes:
