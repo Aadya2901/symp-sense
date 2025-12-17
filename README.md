@@ -1,77 +1,102 @@
-# 🌠 DayPilot – AI Daily Planner & Task Generator
+# 🌿 SympSense – Understand Your Symptoms. Simply.
+*A Symptom Awareness & Health Insight Web App*
 
-An interactive web app that lets users **generate personalized daily to-do lists, schedule tasks, and receive productivity tips** — all powered by **Google’s Gemini API**.  
+**SympSense** is a responsive, user-friendly, and privacy-focused web application designed to help users log, understand, and reflect on their health symptoms in a calm and structured way.
 
-Built with **React, Vite, Tailwind CSS, and TypeScript**, this app provides a modern, responsive, and fast frontend experience.
+Rather than overwhelming users with medical jargon, SympSense focuses on **clarity, awareness, and pattern recognition**, enabling individuals to better understand what their body might be signaling — and when to seek professional care.
 
 ---
 
 ## 🎯 Project Objective
 
-To create a **fully interactive, front-end web app** where users can **generate structured daily plans** instantly using AI, without a backend. The app focuses on usability, speed, and clarity, and works on both desktop and mobile browsers.
+To build an **accessible and intuitive symptom-tracking platform** that empowers users to:
+
+- Log daily symptoms effortlessly  
+- Identify recurring patterns  
+- Receive simplified, non-diagnostic health insights  
+- Maintain awareness without anxiety or information overload  
+
+The goal is **support, not diagnosis** — encouraging informed and mindful health decisions.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Website](https://day-pilot-tangerine.lovable.app/)  
-
-**GitHub Repo:** [https://github.com/Aadya2901/day-pilot](https://github.com/Aadya2901/day-pilot)
-
-### Demo Video
-[Watch Demo on YouTube](https://youtu.be/a1ljZ7UO0uI?si=Woa-moxh4CMqbfzz)
+🔗 **Website:** https://symp-sense.vercel.app/  
+🎥 **Demo Video:** *(Add if available)*
 
 ---
 
 ## 🖥️ Tech Stack
 
-- **React 18 + TypeScript**  
-- **Vite** for fast development and bundling  
-- **Tailwind CSS + shadcn/ui** for responsive UI components  
-- **Google Gemini API** via AI Studio for AI-generated daily plans  
-- Fully front-end, no backend required  
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Framework & Tooling:** Vite  
+- **Styling:** Tailwind CSS  
+- **AI Integration:** Gemini API (general symptom explanations & guidance)  
+- **Design Philosophy:** Minimal UI, soft colors, accessibility-first layouts  
+- **Architecture:** Modular, mobile-first, frontend-focused  
+- **Backend:** Not required for core functionality  
 
 ---
 
-## 🌟 Features
+## 🌟 Key Features
 
-### *QuickPlan*
-- 📝 Enter daily goals or tasks  
-- Click **Generate Plan** to get a structured schedule  
-- AI generates **priority tasks, estimated time blocks, and productivity tips**  
+### 🩺 Symptom Logging
+- Log symptoms with severity and notes  
+- Track daily health experiences  
+- Simple and distraction-free input flow  
 
-### *SmartBreaks*  
-- ⏱️ Suggested break times to maximize focus  
-- Reduces decision fatigue and keeps the user on track  
+### 🧠 Smart Symptom Insights
+- Easy-to-understand explanations of common symptoms  
+- Non-medical, awareness-focused guidance  
+- Encourages timely professional consultation when needed  
 
-### *ProductivityTips*  
-- 💡 Quick actionable tips based on tasks  
-- Helps users improve efficiency and organization  
+### 📊 Pattern Awareness
+- Helps users notice recurring or clustered symptoms  
+- Supports better self-awareness over time  
 
-### *User-Friendly Interface*  
-- ✨ Clean UI for desktop and mobile  
-- Output panel displays AI-generated plan clearly  
-- Copy or save the generated plan  
+### 🧘 Calm & Accessible UI
+- Clean interface designed to reduce health anxiety  
+- Mobile-friendly and responsive design  
+- Inclusive color palette and readable typography  
+
+### 🔐 Privacy First
+- No unnecessary personal data collection  
+- No forced login  
+- User control over entered information  
+
+---
+
+## 📸 Screenshots
+
+### 🌿 Home / Landing Page
+*(Add screenshot)*
+
+### 🩺 Symptom Logging Interface
+*(Add screenshot)*
+
+### 🧠 Symptom Insight View
+*(Add screenshot)*
+
+### ⚙️ Settings & Privacy
+*(Add screenshot)*
 
 ---
 
 ## 📁 Folder Structure
 
 ```
-day-pilot/
-├── public/ # Static assets
-├── src/
-│ ├── components/ # Reusable React components
-│ ├── pages/ # Pages (Landing, Planner, etc.)
-│ ├── App.tsx # Main app component
-│ ├── main.tsx # ReactDOM render
-│ └── index.css # Global styles
-├── .env # API keys
-├── package.json # Dependencies
-├── tsconfig.json # TypeScript config
-├── tailwind.config.ts # Tailwind config
-├── vite.config.ts # Vite config
-└── README.md # This file
+.
+├── .env
+├── .gitignore
+├── index.html
+├── package.json
+├── package-lock.json
+├── postcss.config.js
+├── tailwind.config.ts
+├── tsconfig.json
+├── vite.config.ts
+└── README.md   # Project documentation
 ```
 
 ---
@@ -81,53 +106,19 @@ day-pilot/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/<your-username>/day-pilot.git
-cd day-pilot
+git clone https://github.com/<your-username>/symp-sense.git
+cd symp-sense
 ```
 
-2. Install Dependencies
-   
+2. Run Locally
+
 ```
 npm install
-```
-
-3. Add Gemini API Key
-
-Create a .env file in the root:
-
-```
-VITE_GEMINI_API_KEY=your_api_key_here
-```
-
-4. Run Locally
-
-```
 npm run dev
-```
 
-Open the URL shown in the terminal to see your app running locally.
-
-5. Build for Production
-
-```
-npm run build
 ```
 
 Deploy the dist folder on Vercel, Netlify, or GitHub Pages.
-
----
-
-## 📸 Screenshots / Demo Video
-
-### Landing Page
-![Landing Page](images/landing_page_ss.png)
-
-### Prompt Page
-![Prompt Page](images/give_agenda_ss.png)
-
-### AI Generated Plan
-![Generated Plan](images/generated_plan_ss.png)
-
 
 ---
 
@@ -164,7 +155,9 @@ This project is open source under the MIT License. Use it for personal or educat
 
 💬 Final Note
 
-"Plan your day in seconds, stay productive, and reduce overwhelm — powered by AI!" 🚀
+“Awareness is the first step toward better health.” 🌱
+
+SympSense is built to support reflection, not fear — offering users a gentle, informative way to listen to their bodies and make mindful health choices.
 
 ---
 
