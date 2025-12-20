@@ -111,36 +111,69 @@ The goal is **support, not diagnosis** — encouraging mindful and informed heal
 
 ### 🌿 Home / Landing Page (English)
 ![Landing Page](./screenshots/landing-en.png)
+*The welcoming landing page introducing SympSense’s calm, privacy-first AI health assistant.*
+
+---
 
 ### ✨ Core Features Overview
 ![Features Overview](./screenshots/features-overview.png)
+*An overview of SympSense’s key principles — privacy, empathetic AI, instant insights, and voice-first accessibility.*
+
+---
 
 ### 🔄 How SympSense Works
 ![How It Works](./screenshots/how-it-works.png)
+*A simple three-step flow explaining how users share symptoms, receive caring AI analysis, and get guidance.*
+
+---
 
 ### ⚠️ Medical Disclaimer
 ![Medical Disclaimer](./screenshots/medical-disclaimer.png)
+*A clear safety disclaimer emphasizing that SympSense provides awareness-focused guidance, not medical diagnosis.*
+
+---
 
 ### 🌐 Language Selector
 ![Language Selector](./screenshots/language-selector.png)
+*Users can easily switch between English and regional Indian languages for inclusive access.*
+
+---
 
 ### 🌍 Multilingual Support – Hindi
 ![Hindi Landing](./screenshots/landing-hi.png)
+*The SympSense interface fully translated into Hindi, showcasing multilingual accessibility.*
+
+---
 
 ### 💬 Chat Interface (English)
 ![Chat Interface](./screenshots/chat-interface-en.png)
+*The main AI Health Assistant chat interface where users can type or speak their symptoms.*
+
+---
 
 ### 🎙️ Voice-Based Symptom Input (English)
 ![English Voice Input](./screenshots/voice-input-en.png)
+*Real-time voice input allowing users to speak symptoms naturally instead of typing.*
+
+---
 
 ### 🧠 AI Guidance Example
 ![AI Guidance](./screenshots/chat-guidance-example.png)
+*An example of empathetic, non-diagnostic AI guidance that encourages professional care when needed.*
+
+---
 
 ### 🗣️ Multilingual Chat – Hindi
 ![Hindi Chat](./screenshots/chat-interface-hi.png)
+*AI-powered symptom guidance delivered entirely in Hindi for wider reach and understanding.*
+
+---
 
 ### 🎙️ Voice-Based Symptom Input (Hindi)
 ![Hindi Voice Input](./screenshots/voice-input-hi.png)
+*Voice-first symptom input in Hindi, designed to support low-literacy and rural users.*
+
+---
 
 ---
 
