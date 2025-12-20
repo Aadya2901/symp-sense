@@ -109,18 +109,38 @@ The goal is **support, not diagnosis** — encouraging mindful and informed heal
 
 ## 📸 Screenshots
 
-### 🌿 Home / Landing Page
-![Home / Landing Page](./screenshots/landing.png)
+### 🌿 Home / Landing Page (English)
+![Landing Page](./screenshots/landing-en.png)
 
-### 🩺 Symptom Input & Voice Logging
-![Symptom Input & Voice Logging](./screenshots/symptom-input.png)
+### ✨ Core Features Overview
+![Features Overview](./screenshots/features-overview.png)
 
-### 🧠 AI Insight & Guidance View
-![AI Insight & Guidance View](./screenshots/insight-view.png)
+### 🔄 How SympSense Works
+![How It Works](./screenshots/how-it-works.png)
 
-### 🚨 Emergency Awareness Flow
-![Emergency Awareness Flow](./screenshots/emergency-flow.png)
+### ⚠️ Medical Disclaimer
+![Medical Disclaimer](./screenshots/medical-disclaimer.png)
 
+### 🌐 Language Selector
+![Language Selector](./screenshots/language-selector.png)
+
+### 🌍 Multilingual Support – Hindi
+![Hindi Landing](./screenshots/landing-hi.png)
+
+### 💬 Chat Interface (English)
+![Chat Interface](./screenshots/chat-interface-en.png)
+
+### 🎙️ Voice-Based Symptom Input (English)
+![English Voice Input](./screenshots/voice-input-en.png)
+
+### 🧠 AI Guidance Example
+![AI Guidance](./screenshots/chat-guidance-example.png)
+
+### 🗣️ Multilingual Chat – Hindi
+![Hindi Chat](./screenshots/chat-interface-hi.png)
+
+### 🎙️ Voice-Based Symptom Input (Hindi)
+![Hindi Voice Input](./screenshots/voice-input-hi.png)
 
 ---
 
