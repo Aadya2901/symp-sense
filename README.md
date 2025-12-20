@@ -1,85 +1,126 @@
 # 🌿 SympSense – Understand Your Symptoms. Simply.
-*A Symptom Awareness & Health Insight Web App*
+*A Calm, Voice-Friendly Symptom Awareness & Health Insight Web App*
 
-**SympSense** is a responsive, user-friendly, and privacy-focused web application designed to help users log, understand, and reflect on their health symptoms in a calm and structured way.
+**SympSense** is a responsive, privacy-first web application designed to help users **express, understand, and reflect on their health symptoms** in a calm, structured, and non-intimidating way.
 
-Rather than overwhelming users with medical jargon, SympSense focuses on **clarity, awareness, and pattern recognition**, enabling individuals to better understand what their body might be signaling — and when to seek professional care.
+Instead of overwhelming users with medical jargon or fear-driven information, SympSense focuses on **clarity, empathy, accessibility, and awareness**, helping individuals recognize symptom patterns and make **informed decisions about seeking professional care**.
+
+> ⚠️ **Disclaimer:** SympSense is **not a diagnostic tool**. It is designed to support awareness — not replace medical professionals.
 
 ---
 
 ## 🎯 Project Objective
 
-To build an **accessible and intuitive symptom-tracking platform** that empowers users to:
+To build an **accessible, inclusive, and anxiety-reducing health awareness platform** that empowers users to:
 
-- Log daily symptoms effortlessly  
-- Identify recurring patterns  
-- Receive simplified, non-diagnostic health insights  
-- Maintain awareness without anxiety or information overload  
+- Log and describe symptoms effortlessly  
+- Use **voice input** instead of typing (accessibility-first)  
+- Receive **AI-powered, non-diagnostic insights**  
+- Identify recurring patterns over time  
+- Know **when to seek professional or emergency care**  
 
-The goal is **support, not diagnosis** — encouraging informed and mindful health decisions.
+The goal is **support, not diagnosis** — encouraging mindful and informed health decisions.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 **Website:** https://symp-sense.vercel.app/  
-🎥 **Demo Video:** *(Add if available)*
+🔗 **Website:** [Visit the Website](https://symp-sense-lavender.vercel.app/)  
+🎥 **Demo Video:** [Watch the Demo](https://youtu.be/BFEh0pCL7rs?si=SeuefI7kABfxo0t2)
 
 ---
 
 ## 🖥️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Framework & Tooling:** Vite  
-- **Styling:** Tailwind CSS  
-- **AI Integration:** Gemini API (general symptom explanations & guidance)  
-- **Design Philosophy:** Minimal UI, soft colors, accessibility-first layouts  
-- **Architecture:** Modular, mobile-first, frontend-focused  
-- **Backend:** Not required for core functionality  
+### Frontend
+- HTML5  
+- CSS3  
+- JavaScript  
+- TypeScript  
+- Vite  
+
+### Styling & UI
+- Tailwind CSS  
+- Mobile-first, responsive layouts  
+- Soft pastel color palette  
+- Accessibility-focused typography  
+
+### AI & Intelligence
+- **Google Gemini API** – symptom analysis, explanations, and follow-up questioning  
+
+### Voice & Accessibility (Non-Billing)
+- **Browser Web Speech API** – voice-based symptom input  
+
+### Architecture
+- Frontend-focused, modular design  
+- No backend required for core functionality  
+
+### Deployment
+- **Vercel**
 
 ---
 
 ## 🌟 Key Features
 
 ### 🩺 Symptom Logging
-- Log symptoms with severity and notes  
-- Track daily health experiences  
-- Simple and distraction-free input flow  
+- Describe symptoms using text or voice  
+- Add severity and notes  
+- Clean, distraction-free input flow  
 
-### 🧠 Smart Symptom Insights
-- Easy-to-understand explanations of common symptoms  
-- Non-medical, awareness-focused guidance  
-- Encourages timely professional consultation when needed  
+### 🎙️ Voice-First Accessibility
+- Speak symptoms instead of typing  
+- Designed for **low-literacy and rural accessibility**  
+- Automatic fallback to text input if voice is unavailable  
+
+### 🧠 AI-Powered Symptom Insights
+- Calm, easy-to-understand explanations  
+- Non-medical, awareness-focused responses  
+- Clear guidance on monitoring vs consulting a doctor  
+- Powered by **Google Gemini API**
+
+### 💬 Intelligent Follow-Up (Cross-Questioning)
+- AI asks simple follow-up questions such as:  
+  - “Since when are you feeling this?”  
+  - “Is the pain mild, moderate, or severe?”  
+- Improves clarity without overwhelming the user  
+
+### 🚨 Emergency Awareness & Guidance
+- Detects potentially concerning symptoms (e.g., severe chest pain)  
+- Displays emergency warnings and local emergency numbers (India: **112 / 108**)  
+- Encourages immediate medical attention when required  
 
 ### 📊 Pattern Awareness
 - Helps users notice recurring or clustered symptoms  
-- Supports better self-awareness over time  
+- Encourages better long-term self-awareness  
 
 ### 🧘 Calm & Accessible UI
-- Clean interface designed to reduce health anxiety  
-- Mobile-friendly and responsive design  
-- Inclusive color palette and readable typography  
+- Designed to reduce health anxiety  
+- Soft gradients and rounded cards  
+- Clear visual hierarchy  
+- Fully mobile-friendly and responsive  
 
-### 🔐 Privacy First
-- No unnecessary personal data collection  
+### 🔐 Privacy-First by Design
 - No forced login  
-- User control over entered information  
+- No unnecessary personal data collection  
+- Voice input processed locally in the browser  
+- Full user control over entered information  
 
 ---
 
 ## 📸 Screenshots
 
 ### 🌿 Home / Landing Page
-*(Add screenshot)*
+![Home / Landing Page](./screenshots/landing.png)
 
-### 🩺 Symptom Logging Interface
-*(Add screenshot)*
+### 🩺 Symptom Input & Voice Logging
+![Symptom Input & Voice Logging](./screenshots/symptom-input.png)
 
-### 🧠 Symptom Insight View
-*(Add screenshot)*
+### 🧠 AI Insight & Guidance View
+![AI Insight & Guidance View](./screenshots/insight-view.png)
 
-### ⚙️ Settings & Privacy
-*(Add screenshot)*
+### 🚨 Emergency Awareness Flow
+![Emergency Awareness Flow](./screenshots/emergency-flow.png)
+
 
 ---
 
@@ -89,6 +130,11 @@ The goal is **support, not diagnosis** — encouraging informed and mindful heal
 .
 ├── .env
 ├── .gitignore
+├── screenshots/
+│   ├── landing.png
+│   ├── symptom-input.png
+│   ├── insight-view.png
+│   └── emergency-flow.png
 ├── index.html
 ├── package.json
 ├── package-lock.json
@@ -97,6 +143,7 @@ The goal is **support, not diagnosis** — encouraging informed and mindful heal
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md   # Project documentation
+
 ```
 
 ---
@@ -134,6 +181,22 @@ Deploy the dist folder on Vercel, Netlify, or GitHub Pages.
 
 ---
 
+## 🛣️ Future Enhancements & Roadmap
+
+### ✅ Already Implemented
+- Multilingual support (English and regional language support)  
+- Voice-based symptom input for improved accessibility  
+
+### 🚧 Planned Enhancements
+- Medication reminders and follow-up alerts  
+- Persistent symptom history tracking across sessions  
+- Optional backend integration for secure long-term data storage  
+
+### ⚠️ Deferred (Billing-Dependent Enhancements)
+- Nearby hospital and doctor recommendations using map-based services  
+  *(Planned using Google Maps API; deferred to avoid billing requirements during the hackathon phase)*
+
+---
 
 ## 🤝 Contributing
 
