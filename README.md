@@ -10,6 +10,15 @@
 
 Instead of overwhelming users with medical jargon or generic chatbot replies, SympSense delivers **structured, explainable, and safe AI insights**.
 
+---
+
+## 🎥 Demo Preview
+
+![SympSense Demo](screenshots/demo.gif)
+
+A quick walkthrough of SympSense — from symptom input to clear, structured AI guidance.
+
+---
 ### ✨ Core Focus
 
 - 🧠 Clarity over confusion  
@@ -125,7 +134,7 @@ To build a **safe, transparent, and emotionally-aware AI health assistant** that
 
 ![Landing Experience](screenshots/landing.png)
 
-A calm, distraction-free entry point designed to reduce anxiety and guide users with clarity.
+A calm, minimal entry point designed to reduce anxiety and guide users with clarity from the very first interaction.
 
 ---
 
@@ -133,63 +142,64 @@ A calm, distraction-free entry point designed to reduce anxiety and guide users 
 
 ![How it Works](screenshots/how-it-works.png)
 
-A simple 3-step flow:
-- Share symptoms  
-- AI understands  
-- Get clear guidance  
+A simple, intuitive 3-step flow:
+- Share your symptoms  
+- AI processes with care  
+- Receive clear, structured guidance  
 
 ---
 
-### 💬 Symptom Input (Chat Interface)  
+### 💬 Symptom Input
 
-![Chat Input](screenshots/chat-input.png)
+![Symptom Input](screenshots/chat-input.png)
 
-Users can describe symptoms naturally — by typing or voice.
+Users can describe symptoms naturally using text or voice — no rigid forms or medical jargon required.
 
 ---
 
-### 🧠 AI Response (Structured Insights)  
+### 🧠 AI Response 
 
 ![AI Response](screenshots/ai-response.png)
 
-Clear, structured outputs including:
-- Explanation  
-- Severity  
-- Guidance  
+Structured and explainable AI output including:
+- Clear explanation  
+- Severity level  
+- Confidence score  
+- Recommended actions  
 
-👉 No overwhelming medical jargon
+👉 Designed to inform without overwhelming or alarming users
 
 ---
 
 ### 🔍 Transparency Layer  
 
-![Transparency](screenshots/transparency.png)
+![Transparency Layer](screenshots/transparency.png)
 
-Explains:
-- Why the AI gave a response  
-- Limitations of AI  
+Provides visibility into AI reasoning:
+- Why a response was generated  
+- System limitations  
 - Safety disclaimers  
 
-👉 Builds trust and accountability
+👉 Builds trust through explainability and accountability
 
 ---
 
 ### 🕒 Symptom Timeline  
 
-![Timeline](screenshots/timeline.png)
+![Symptom Timeline](screenshots/timeline.png)
 
-Track symptoms over time and identify patterns for better awareness.
+Track symptoms over time to identify recurring patterns and improve long-term health awareness.
 
 ---
 
 ### 📊 Health Insights Dashboard  
 
-![Dashboard](screenshots/dashboard.png)
+![Health Dashboard](screenshots/dashboard.png)
 
-Visual insights:
+Visual insights into user health data:
+- Trends and patterns  
 - Most frequent symptoms  
-- Trends  
-- Weekly patterns  
+- Weekly summaries  
 
 ---
 
@@ -199,7 +209,23 @@ Visual insights:
 ![Multilingual](screenshots/multilingual.png)
 ![Multilingual](screenshots/multilingual2.png)
 
-Supports multiple languages to improve accessibility and inclusivity.
+Supports multiple languages to ensure accessibility and inclusivity across diverse users.
+
+---
+
+## 🌟 Why Choose SympSense
+
+![Why Choose SympSense](screenshots/why-choose.png)
+
+What makes SympSense different:
+
+- 🛡️ Privacy-first — No unnecessary data storage  
+- 💬 Calm AI — Designed to reduce anxiety, not create it  
+- ⚡ Structured insights — No long, confusing responses  
+- 🔍 Explainable outputs — Know *why* AI says something  
+- 📊 Observable system — Real-time safety and reliability monitoring  
+
+👉 From a black-box chatbot → to a transparent, trustworthy system
 
 ---
 
@@ -207,12 +233,28 @@ Supports multiple languages to improve accessibility and inclusivity.
 
 ![Disclaimer](screenshots/disclaimer.png)
 
-Clear messaging to ensure:
-- Responsible usage  
-- No misinterpretation as medical advice  
+Clear and responsible messaging to ensure:
+- Awareness, not diagnosis  
+- Safe usage of AI  
+- Encouragement to seek professional care  
 
 ---
 
+## 👥 About Us
+
+![About SympSense](screenshots/about-us.png)
+
+SympSense was created to rethink how people interact with health information.
+
+Instead of overwhelming users with complex or alarming outputs, we built a system that prioritizes:
+
+- 🧠 Clarity — Simple, structured understanding  
+- 🧘 Calmness — Emotionally aware, reassuring responses  
+- 🛡️ Trust — Transparent and responsible AI behavior  
+
+👉 A human-centered AI that supports users — not replaces healthcare.
+
+---
 ## 🔄 Finale Round Improvements
 
 We evolved SympSense from a simple AI tool into a **responsible, production-like system**:
