@@ -121,37 +121,93 @@ To build a **safe, transparent, and emotionally-aware AI health assistant** that
 ## 📸 Platform Walkthrough
 
 ### 🏠 Landing Experience  
-“Understand Your Symptoms. Calmly.”  
-A minimal, distraction-free entry into the system.
+“Understand Your Symptoms. Calmly.”
+
+![Landing Experience](screenshots/landing.png)
+
+A calm, distraction-free entry point designed to reduce anxiety and guide users with clarity.
 
 ---
 
-### 🧠 AI Interaction Screen  
-Structured responses with severity, confidence, and guidance.
+### ⚙️ How SympSense Works  
+
+![How it Works](screenshots/how-it-works.png)
+
+A simple 3-step flow:
+- Share symptoms  
+- AI understands  
+- Get clear guidance  
 
 ---
 
-### 📊 Observability Layer  
-Real-time monitoring of AI behavior and reliability.
+### 💬 Symptom Input (Chat Interface)  
+
+![Chat Input](screenshots/chat-input.png)
+
+Users can describe symptoms naturally — by typing or voice.
 
 ---
 
-### 🕒 Symptom Tracking  
-Track patterns and recurring issues over time.
+### 🧠 AI Response (Structured Insights)  
+
+![AI Response](screenshots/ai-response.png)
+
+Clear, structured outputs including:
+- Explanation  
+- Severity  
+- Guidance  
+
+👉 No overwhelming medical jargon
 
 ---
 
-### 🚨 Safety Layer  
-Clear alerts and guidance when symptoms may be serious.
+### 🔍 Transparency Layer  
+
+![Transparency](screenshots/transparency.png)
+
+Explains:
+- Why the AI gave a response  
+- Limitations of AI  
+- Safety disclaimers  
+
+👉 Builds trust and accountability
 
 ---
 
-## 🔐 Privacy-First Design
+### 🕒 Symptom Timeline  
 
-- No unnecessary data collection  
-- User-controlled inputs  
-- Minimal storage approach  
-- Designed with sensitive health data in mind  
+![Timeline](screenshots/timeline.png)
+
+Track symptoms over time and identify patterns for better awareness.
+
+---
+
+### 📊 Health Insights Dashboard  
+
+![Dashboard](screenshots/dashboard.png)
+
+Visual insights:
+- Most frequent symptoms  
+- Trends  
+- Weekly patterns  
+
+---
+
+### 🌍 Multilingual Support  
+
+![Multilingual](screenshots/multilingual.png)
+
+Supports multiple languages to improve accessibility and inclusivity.
+
+---
+
+### ⚠️ Safety & Disclaimer  
+
+![Disclaimer](screenshots/disclaimer.png)
+
+Clear messaging to ensure:
+- Responsible usage  
+- No misinterpretation as medical advice  
 
 ---
 
