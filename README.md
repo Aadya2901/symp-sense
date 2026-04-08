@@ -195,7 +195,9 @@ Visual insights:
 
 ### 🌍 Multilingual Support  
 
+![Multilingual](screenshots/multilingual0.png)
 ![Multilingual](screenshots/multilingual.png)
+![Multilingual](screenshots/multilingual2.png)
 
 Supports multiple languages to improve accessibility and inclusivity.
 
