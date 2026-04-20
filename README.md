@@ -45,7 +45,7 @@ To build a **safe, transparent, and emotionally-aware AI health assistant** that
 
 ## 🚀 Live Demo
 
-🔗 [Visit the Website](https://symp-sense-lavender.vercel.app/) <br>
+🔗 [Visit the Website](https://v0-symp-sense-o9kd32fo2-aadyas-projects-10f6fcf2.vercel.app/) <br>
 🎥 [View the Demo](https://youtu.be/KfFnP6siiIs?si=1d2OvQAU1ObEXlV6)
 
 ---
