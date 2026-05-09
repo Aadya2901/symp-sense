@@ -66,23 +66,11 @@ https://youtu.be/KfFnP6siiIs?si=1d2OvQAU1ObEXlV6
 
 # 🖥️ Tech Stack
 
-## Frontend
-- TypeScript  
-- HTML5  
-- Tailwind CSS  
-- Vite  
-
-## AI & Intelligence
-- Google Gemini API  
-
-## Observability & Monitoring
-- Datadog (logging, monitoring, reliability tracking, safety signals)
-
-## Accessibility & Voice
-- Web Speech API  
-
-## Deployment
-- Vercel  
+- **Frontend:** TypeScript, HTML5, Tailwind CSS, Vite  
+- **AI:** Google Gemini API  
+- **Observability:** Datadog  
+- **Voice & Accessibility:** Web Speech API  
+- **Deployment:** Vercel  
 
 ---
 
